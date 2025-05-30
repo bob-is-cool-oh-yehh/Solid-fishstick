@@ -12,9 +12,7 @@ padding-left:24px;
 padding-right: 24;
 }
 html{
- background: radial-gradient(circle, #ec0f0f,
- #ec0f0f 50%, #610303 50%, 
- #ec0f0f);
+ background: radial-gradient;
     background-size: 8px 8px;
 }
 nav ul {list-style-type: none;
